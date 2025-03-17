@@ -9350,25 +9350,25 @@ body {
     background: #f1f1f2;
 }
 
-@media screen and (min-width:768px) {
+/* @media screen and (min-width:768px) {
     .main-container {
         background: #f1f1f2 url(/iciss_test/sites/all/themes/custom/conferences2/images/body-bg-top-s.png) top left no-repeat;
     }
-}
+} */
 
 .main-container-middle {
     background: transparent;
 }
 
-@media screen and (min-width:768px) {
+/* @media screen and (min-width:768px) {
     .main-container-middle {
         background: transparent url(/iciss_test/sites/all/themes/custom/conferences2/images/body-bg-rt-s-bw.png) top right repeat-y;
     }
-}
+} */
 
-.main-container-inner {
+/* .main-container-inner {
     background: transparent url(/iciss_test/sites/all/themes/custom/conferences2/images/body-bg-lt-s.png) top left repeat-y;
-}
+} */
 
 .region-content,
 .region-below-content {
